@@ -73,15 +73,25 @@ https://www.quora.com/careers/data_scientist_intern
 - Knewton, Inc.
   [Software Engineering Internship](https://jobs.lever.co/knewton/68af562f-61d2-4e66-bcda-7f6ffc85b445)
 
-- Eva has already applied in campus job board, attached company's official site:
-  - IBM  [IBM Research/ Rice 2017 Global Internships](http://www.IBMCampusUS.com) Its internship can be performed at Beijing, China.
-  - Bloomberg [2017 Software Engineer Intern](http://careers.bloomberg.com) *I plan to ask friend to refer me. (Eva)*
-  - Microsoft [Internship opportunities in Development (engineering)](https://careers.microsoft.com/students)
-  - AppFolio Inc. [Software Engineer Intern](http://www.appfolioinc.com/)
-  - D. E. Shaw & Co. [Quant Systems: Technologist - Intern](http://www.deshaw.com)
-  - Cisco Meraki [Software Engineer, Co-op](http://meraki.cisco.com)
-  - @WalmartLabs [Software Engineer Intern (Front|Back|Cloud|Mobile|Web) - Summer 2017](http://www.walmartlabs.com)
-  - Bazaarvoice [Software Engineer Intern](http://www.bazaarvoice.com)
+
+*Eva has already applied in campus job board, attached company's official site:*
+
+- IBM  
+[IBM Research/ Rice 2017 Global Internships](http://www.IBMCampusUS.com) Its internship can be performed at Beijing, China.
+- Bloomberg 
+[2017 Software Engineer Intern](http://careers.bloomberg.com) *I plan to ask friend to refer me. (Eva)*
+- Microsoft 
+[Internship opportunities in Development (engineering)](https://careers.microsoft.com/students)
+- AppFolio Inc. 
+[Software Engineer Intern](http://www.appfolioinc.com/)
+- D. E. Shaw & Co. 
+[Quant Systems: Technologist - Intern](http://www.deshaw.com)
+- Cisco Meraki 
+[Software Engineer, Co-op](http://meraki.cisco.com)
+- @WalmartLabs
+[Software Engineer Intern (Front|Back|Cloud|Mobile|Web) - Summer 2017](http://www.walmartlabs.com)
+- Bazaarvoice 
+[Software Engineer Intern](http://www.bazaarvoice.com)
 
 
 
