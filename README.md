@@ -20,6 +20,7 @@ https://www.mapr.com/company/careers
 http://jobs.jobvite.com/cloudera/jobs/team?d=Engineering
 
 以下是写intern的
+
 **Facebook, Square, Uber, eBay, Google, Twitter, Salesforce, Apple, LinkedIn, AirBnB, Yahoo, Pinterest, Palantir, Yelp, Snapchat, Instagram, Quora**
 ### 1010data
 https://www.1010data.com/company/careers/open-positions/
@@ -47,6 +48,7 @@ https://www.palantir.com/college/
 ### etsy
 https://www.etsy.com/careers/job/oYPE3fwe
 以下有intern的
+
 ### pixar
 http://www.pixar.com/careers/available-internships#
 ### yelp
