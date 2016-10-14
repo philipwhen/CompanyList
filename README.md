@@ -41,6 +41,10 @@ https://www.quora.com/careers/data_scientist_intern
 
 ## Software
 
+*Updated by Eva on 10/13/2016*
+- Pure Storage
+  [Software Engineer (Intern)](https://boards.greenhouse.io/purestorage/jobs/254475#app)
+
 *Following is added by Eva on 10/11/2016* (If the link does not specify the detailed position, please simply search "software/ intern" in search box.)
 
 - Two Sigma
