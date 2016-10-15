@@ -40,6 +40,13 @@ https://www.quora.com/careers/data_scientist_intern
 
 
 ## Software
+*Following is added by kisday on 10/14/2016*
+
+- Leetcode
+  [Software Engineer](https://leetcode.com/jobs/)
+
+- appirio
+  [Multi positions](https://appirio.com/careers/join-us?p=jobs%2Fregion%3Fr%3DUS)
 
 *Updated by Eva on 10/13/2016*
 - Pure Storage
@@ -65,13 +72,13 @@ https://www.quora.com/careers/data_scientist_intern
 - Dolby Laboratories
   [[Summer] Software Engineer Intern (Cinema)](https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=22961&company=Dolby&username=)
 
-- Infosys 
+- Infosys
   [Global Internship at Infosys](https://www.infosys.com/instep/apply-now/default.asp)
 
-- Citrix 
+- Citrix
   [Software Engineer Intern](https://jobs.citrix.com/job/CITRA00586811/Software-Engineer-Intern-Microsoft-Solutions)
 
-- Braintree Payments 
+- Braintree Payments
   [Software Engineer Intern](http://grnh.se/1vtuim1)
 
 - Knewton, Inc.
@@ -80,21 +87,21 @@ https://www.quora.com/careers/data_scientist_intern
 
 *Eva has already applied in campus job board, attached company's official site:*
 
-- IBM  
+- IBM
 [IBM Research/ Rice 2017 Global Internships](http://www.IBMCampusUS.com) Its internship can be performed at Beijing, China.
-- Bloomberg 
+- Bloomberg
 [2017 Software Engineer Intern](http://careers.bloomberg.com) *I plan to ask friend to refer me. (Eva)*
-- Microsoft 
+- Microsoft
 [Internship opportunities in Development (engineering)](https://careers.microsoft.com/students)
-- AppFolio Inc. 
+- AppFolio Inc.
 [Software Engineer Intern](http://www.appfolioinc.com/)
-- D. E. Shaw & Co. 
+- D. E. Shaw & Co.
 [Quant Systems: Technologist - Intern](http://www.deshaw.com)
-- Cisco Meraki 
+- Cisco Meraki
 [Software Engineer, Co-op](http://meraki.cisco.com)
 - @WalmartLabs
 [Software Engineer Intern (Front|Back|Cloud|Mobile|Web) - Summer 2017](http://www.walmartlabs.com)
-- Bazaarvoice 
+- Bazaarvoice
 [Software Engineer Intern](http://www.bazaarvoice.com)
 
 
