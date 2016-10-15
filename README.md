@@ -144,7 +144,7 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 
   [2017 Macquarie Summer Analyst Internship Opportunities - USA](http://www.careers.macquarie.com/cw/en/job/930657/2017-macquarie-summer-analyst-internship-opportunities-usa)
 
-- J.P. Morgan Chase ～～不是招程序员的～～ 有招程序员，我去听过info session以及career fair......
+- J.P. Morgan Chase ~~不是招程序员的~~ 有招程序员，我去听过info session以及career fair......
   [2017 Corporate & Investment Bank Investor Services Summer Analyst Program](https://jpmorgan.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-18/user-1728327/xf-afd19f16312d/candidate/so/pm/1/pl/1/opp/4802-2017-Corporate-Investment-Bank-Investor-Services-Summer-Analyst-Program/en-GB)
 
 - Dolby Laboratories
