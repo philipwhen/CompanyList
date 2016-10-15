@@ -1,34 +1,5 @@
 # Company List
-
-## Data Science 工作
-### Foundry
-http://www.augify.com/about.html
-
-### turi
-https://turi.com/company/contact.html
-
-### h2o
-http://www.h2o.ai/careers/
-
-###svds
-https://svds.com/careers/
-
-### mapr
-https://www.mapr.com/company/careers
-
-### Cloudera
-http://jobs.jobvite.com/cloudera/jobs/team?d=Engineering
-
-以下是写intern的
-
-**Facebook, Square, Uber, eBay, Google, Twitter, Salesforce, Apple, LinkedIn, AirBnB, Yahoo, Pinterest, Palantir, Yelp, Snapchat, Instagram, Quora**
-
-### 1010data
-https://www.1010data.com/company/careers/open-positions/
-
-### mongodb
-https://www.mongodb.com/careers/college-students
-
+## 内推公司
 ### facebook
 https://www.facebook.com/careers/university/internships/engineering
 
@@ -37,6 +8,26 @@ https://www.linkedin.com/jobs2/view/7360453
 
 ### Quora
 https://www.quora.com/careers/data_scientist_intern
+
+### Microsoft Internship opportunities in Development (engineering)
+
+## Data Science 工作
+### Foundry
+http://www.augify.com/about.html
+  - Lich Submitted on 10/14/2016, just send email
+
+以下是写intern的
+
+**Facebook, Square, Uber, eBay, Google, Twitter, Salesforce, Apple, LinkedIn, AirBnB, Yahoo, Pinterest, Palantir, Yelp, Snapchat, Instagram, Quora**
+
+### 1010data
+[Developer, Intern](https://www.1010data.com/company/careers/open-positions?gh_jid=276778)
+Describe in 2-3 sentences something you have built to solve a non-trivial problem and the technology used.
+  - Lich Submitted on 10/14/2016
+
+### mongodb
+[Software Engineering Intern - Summer 2017](https://www.mongodb.com/careers/college-students)
+  - Lich Submitted on 10/14/2016
 
 
 ## Software
@@ -55,24 +46,28 @@ https://www.quora.com/careers/data_scientist_intern
 *Following is added by Eva on 10/11/2016* (If the link does not specify the detailed position, please simply search "software/ intern" in search box.)
 
 - Two Sigma
-  [Software Engineer Internship](https://careers.twosigma.com/)
+  [Software Engineer Internship](https://careers.twosigma.com/) must be in 4-year Bachelor’s program
 
 - Tesla Motors
   [Software Internship / Co-op (Spring 2017)](https://www.tesla.com/careers/job/software-internship-co-opspring2017-42199)
 
-- OSISoft
+- OSISoft 没有intern
   [Software Developer Intern](http://www.osisoft.com/about-osisoft/careers/job-search/)
 
-- macquarie
+- macquarie 这个不是我们申请的，一定要SAT 成绩。for undergaduate
   [2017 MACQUARIE SUMMER ANALYST INTERNSHIP OPPORTUNITIES, NYC](http://www.macquarie.com/us/about/careers)
 
-- J.P. Morgan Chase
+  [2017 Macquarie Summer Analyst Internship Opportunities - USA](http://www.careers.macquarie.com/cw/en/job/930657/2017-macquarie-summer-analyst-internship-opportunities-usa)
+
+- J.P. Morgan Chase 不是招程序员的
   https://jpmorgan.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-18/user-1581872/xf-674921dc8af2/candidate
+
+  [2017 Corporate & Investment Bank Investor Services Summer Analyst Program](https://jpmorgan.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-18/user-1728327/xf-afd19f16312d/candidate/so/pm/1/pl/1/opp/4802-2017-Corporate-Investment-Bank-Investor-Services-Summer-Analyst-Program/en-GB)
 
 - Dolby Laboratories
   [[Summer] Software Engineer Intern (Cinema)](https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=22961&company=Dolby&username=)
 
-- Infosys
+- Infosys 印度公司
   [Global Internship at Infosys](https://www.infosys.com/instep/apply-now/default.asp)
 
 - Citrix
@@ -85,41 +80,34 @@ https://www.quora.com/careers/data_scientist_intern
   [Software Engineering Internship](https://jobs.lever.co/knewton/68af562f-61d2-4e66-bcda-7f6ffc85b445)
 
 
+
 *Eva has already applied in campus job board, attached company's official site:*
 
 - IBM
 [IBM Research/ Rice 2017 Global Internships](http://www.IBMCampusUS.com) Its internship can be performed at Beijing, China.
-- Bloomberg
-[2017 Software Engineer Intern](http://careers.bloomberg.com) *I plan to ask friend to refer me. (Eva)*
+- Bloomberg                           
+Please explain in no more than 100 words why you are interested in a career as a Software Developer?
+[2017 Software Engineer Intern](https://careers.bloomberg.com/job/search?qe=2017+Software+Engineer+Intern) *I plan to ask friend to refer me. (Eva)*
 - Microsoft
 [Internship opportunities in Development (engineering)](https://careers.microsoft.com/students)
 - AppFolio Inc.
-[Software Engineer Intern](http://www.appfolioinc.com/)
-- D. E. Shaw & Co.
+[Software Engineer Intern](http://www.appfolioinc.com/jobs-openings)
+- D. E. Shaw & Co. 不是计算机的吧
 [Quant Systems: Technologist - Intern](http://www.deshaw.com)
 - Cisco Meraki
-[Software Engineer, Co-op](http://meraki.cisco.com)
-- @WalmartLabs
+[Software Engineer, Co-op](https://meraki.cisco.com/jobs#46218)
+- @WalmartLabs 没看到
 [Software Engineer Intern (Front|Back|Cloud|Mobile|Web) - Summer 2017](http://www.walmartlabs.com)
-- Bazaarvoice
+- Bazaarvoice 没有intern
 [Software Engineer Intern](http://www.bazaarvoice.com)
 
 
+*Lich has Submitted these companies above on 10/14/2016*
 
-
+---
 
 
 *Following is added by Lich on 10/10/2016*
-### Cloudability
-https://www.cloudability.com/jobs/
-
-### palantir
-https://www.palantir.com/college/
-
-### etsy
-https://www.etsy.com/careers/job/oYPE3fwe
-以下有intern的
-
 ### pixar
 http://www.pixar.com/careers/available-internships#
 
@@ -128,16 +116,27 @@ https://www.yelp.com/careers/home
 
 ### Visa
 
-### Netapp
+### NetApp
+[Intern - Engineering](https://careers.netapp.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_rlze%2f2r5I05jjEiR6UXq6PRBDWmsuDVLUJAwxWcu1cwTytbCYg6qVbdMheuriRK&jobId=586299&type=search&JobReqLang=1&recordstart=1&JobSiteId=5100&JobSiteInfo=586299_5100&GQId=0)
+  - Lich Submitted Candidate Reference Number is: 8855692 on 10/14/2016.
 
 ### esri
+[Software Development Internships](http://www.esri.com/careers/main/job-detail?jobID=6053&term=Short%20Term&jobtype=Software%20Development/Engineering&location=Multiple%20Locations&capath=Software%20Development/Engineering&loc=&jsearch=intern)
+  - Lich gets Telephone Interview
 
 ### workday
+- [Software Engineer, Server - Intern](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15194)
+- Lich Submitted
 
+---
+*Following is added by Lich on 10/14/2016*
+### MathWorks
+[Software Engineering Intern](https://www.mathworks.com/company/jobs/opportunities/10071-software-engineering-intern?keywords=intern&country[]=US&)
+  - Lich Submitted on 10/14/2016
 
 ## 游戏公司
 ### riot games
-https://www.linkedin.com/jobs/view/197123741?trkInfo=searchKeywordString%3AData%2BScience%2BIntern%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A5%2CMSRPsearchId%3A319305000_1475289236282&refId=319305000_1475289236282&recommendedFlavor=SCHOOL_RECRUIT&trk=jobs_jserp_job_listing_text
+[LinkedIn](https://www.linkedin.com/jobs/view/197123741?trkInfo=searchKeywordString%3AData%2BScience%2BIntern%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A5%2CMSRPsearchId%3A319305000_1475289236282&refId=319305000_1475289236282&recommendedFlavor=SCHOOL_RECRUIT&trk=jobs_jserp_job_listing_text)
 
 ### 暴雪
-https://www.linkedin.com/jobs/view/212095348?trkInfo=searchKeywordString%3AData%2BScience%2BIntern%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A13%2CMSRPsearchId%3A319305000_1475289236282&refId=319305000_1475289236282&recommendedFlavor=SCHOOL_RECRUIT&trk=jobs_jserp_job_listing_text
+[LinkedIn](https://www.linkedin.com/jobs/view/212095348?trkInfo=searchKeywordString%3AData%2BScience%2BIntern%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A13%2CMSRPsearchId%3A319305000_1475289236282&refId=319305000_1475289236282&recommendedFlavor=SCHOOL_RECRUIT&trk=jobs_jserp_job_listing_text)
