@@ -10,7 +10,77 @@ https://www.linkedin.com/jobs2/view/7360453
 https://www.quora.com/careers/data_scientist_intern
 
 ### Microsoft Internship opportunities in Development (engineering)
+---
 
+*Following is updated by Lich on 10/15/2016*
+### Thumbtack
+  - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=202240&extra=page%3D1%26filter%3Dsortid%26sortid%3D192&page=1)
+  - [一亩三分地](http://www.1point3acres.com/bbs/thread-201311-1-1.html)
+  - Lich Submitted on 10/15/2016
+
+### MagicLeap
+[一亩三分地](http://www.1point3acres.com/bbs/thread-204157-1-1.html)
+
+[Software Engineer (Cloud)](https://www.magicleap.com/#/job-post/224890)
+  - Lich Submitted on 10/15/2016
+
+### Groupon
+  - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=201420&extra=page%3D1%26filter%3Dsortid%26sortid%3D192&page=1)
+  - 官网 [Software Development Engineering Intern, Summer 2017](https://jobs.groupon.com/jobs/R11048)
+  - Lich Submitted on 10/15/2016
+
+### Hulu
+  - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=200317&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+  - 官网 [Hulu Jobs](https://www.hulu.com/jobs)
+
+### Vmware
+  - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=201996&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### Uber
+  - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=200290&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### IBM
+  - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=173701&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### Tableau
+  - [一亩三地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=192732&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### Nutanix
+- [一亩三地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=185660&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### Riot games
+- [一亩三地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=204404&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### snapchat
+- [一亩三地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=201325&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
+
+### Citadel
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-199833-1-1.html)
+
+### Pocket Gems
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-140051-1-1.html)
+
+### Quantcast
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-142381-1-1.html)
+### salesforce  
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-198289-1-1.html)
+
+### skype  
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-198612-1-1.html)
+
+### Meraki
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-148128-1-1.html)
+
+### eBay
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-111969-1-1.html)
+
+### Oracle
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-191192-1-1.html)
+
+### PayPal
+  - [一亩三地](http://www.1point3acres.com/bbs/thread-172329-2-1.html)
+
+---
 ## Data Science 工作
 ### Foundry
 http://www.augify.com/about.html
@@ -133,6 +203,10 @@ https://www.yelp.com/careers/home
 ### MathWorks
 [Software Engineering Intern](https://www.mathworks.com/company/jobs/opportunities/10071-software-engineering-intern?keywords=intern&country[]=US&)
   - Lich Submitted on 10/14/2016
+
+### Marvell
+[Software Application Engineering Intern ](https://marvell.taleo.net/careersection/careersection/ex/jobdetail.ftl)
+  - Lich Submitted on 10/15/2016
 
 ## 游戏公司
 ### riot games
