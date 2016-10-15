@@ -107,7 +107,7 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
   [Software Engineering Intern](https://www.mulesoft.com/careers/apply/software-engineering-intern?gh_jid=117030)
 
 - Capital One 
-  这个奇葩公司每个投简历的入口链接名字是“职位名称 - 学校名称”……所以我投的那个你们不能从这个入口进，就不贴上来了。有可能是它去过的学校或者说在学校job board放了招聘的才设置网申入口（因为在学校job board投完还要求官网再投一遍）……不过没事，这种信用卡公司也不是我们热衷的公司。
+  这个奇葩公司每个投简历的入口链接名字是“职位名称 - 学校名称”……所以我投的那个你们不能从这个入口进，就不贴上来了。有可能是它去过的学校或者说在学校job board放了招聘的才设置网申入口（因为在学校job board投完还要求官网再投一遍）……这种可以看看别的途径投。不过没事，这种信用卡公司也不是我们热衷的公司。
 
 *Following is added by kisday on 10/14/2016*
 
