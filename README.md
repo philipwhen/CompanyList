@@ -99,6 +99,21 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 [Software Engineering Intern - Summer 2017](https://www.mongodb.com/careers/college-students)
   - Lich Submitted on 10/14/2016
 
+## Software
+
+*Added by Eva on 10/15/2016*
+- Mulesoft
+  [Software Engineering Intern](https://www.mulesoft.com/careers/apply/software-engineering-intern?gh_jid=117030)
+
+- Capital One 
+  这个奇葩公司每个投简历的入口链接名字是“职位名称 - 学校名称”……所以我投的那个你们不能从这个入口进，就不贴上来了。有可能是它去过的学校或者说在学校job board放了招聘的才设置网申入口（因为在学校job board投完还要求官网再投一遍）……这种可以看看别的途径投。不过没事，这种信用卡公司也不是我们热衷的公司。
+
+*Following is added by kisday on 10/14/2016*
+
+- Leetcode
+  [Software Engineer](https://leetcode.com/jobs/)
+
+=======
 
 ## Software
 *Following is added by kisday on 10/14/2016*
@@ -129,9 +144,7 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 
   [2017 Macquarie Summer Analyst Internship Opportunities - USA](http://www.careers.macquarie.com/cw/en/job/930657/2017-macquarie-summer-analyst-internship-opportunities-usa)
 
-- J.P. Morgan Chase 不是招程序员的
-  https://jpmorgan.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-18/user-1581872/xf-674921dc8af2/candidate
-
+- J.P. Morgan Chase ~~不是招程序员的~~ 有招程序员，我去听过info session以及career fair......
   [2017 Corporate & Investment Bank Investor Services Summer Analyst Program](https://jpmorgan.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-18/user-1728327/xf-afd19f16312d/candidate/so/pm/1/pl/1/opp/4802-2017-Corporate-Investment-Bank-Investor-Services-Summer-Analyst-Program/en-GB)
 
 - Dolby Laboratories
@@ -155,19 +168,26 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 
 - IBM
 [IBM Research/ Rice 2017 Global Internships](http://www.IBMCampusUS.com) Its internship can be performed at Beijing, China.
+
 - Bloomberg                           
 Please explain in no more than 100 words why you are interested in a career as a Software Developer?
 [2017 Software Engineer Intern](https://careers.bloomberg.com/job/search?qe=2017+Software+Engineer+Intern) *I plan to ask friend to refer me. (Eva)*
+
 - Microsoft
 [Internship opportunities in Development (engineering)](https://careers.microsoft.com/students)
+
 - AppFolio Inc.
 [Software Engineer Intern](http://www.appfolioinc.com/jobs-openings)
+
 - D. E. Shaw & Co. 不是计算机的吧
 [Quant Systems: Technologist - Intern](http://www.deshaw.com)
+
 - Cisco Meraki
 [Software Engineer, Co-op](https://meraki.cisco.com/jobs#46218)
-- @WalmartLabs 没看到
+
+- @WalmartLabs 请在Search open positions搜intern
 [Software Engineer Intern (Front|Back|Cloud|Mobile|Web) - Summer 2017](http://www.walmartlabs.com)
+
 - Bazaarvoice 没有intern
 [Software Engineer Intern](http://www.bazaarvoice.com)
 
@@ -214,3 +234,4 @@ https://www.yelp.com/careers/home
 
 ### 暴雪
 [LinkedIn](https://www.linkedin.com/jobs/view/212095348?trkInfo=searchKeywordString%3AData%2BScience%2BIntern%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A13%2CMSRPsearchId%3A319305000_1475289236282&refId=319305000_1475289236282&recommendedFlavor=SCHOOL_RECRUIT&trk=jobs_jserp_job_listing_text)
+
