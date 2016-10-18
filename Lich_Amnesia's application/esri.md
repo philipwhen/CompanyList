@@ -5,62 +5,24 @@ Writing unit, functional, and integration tests for the Server and Portal teams
 
 geographic information system
 
+# ArcGIS introduction
+It is used for: creating and using maps; compiling geographic data; analyzing mapped information; sharing and discovering geographic information; using maps and geographic information in a range of applications; and managing geographic information in a database.
+Collection of all kinds of map data
+easy to analyze map data and visulize it.
+
 # 技能点
 Java，JavaScript，web，C++，D3
 
+# Problems Algorithms
+### Review basics of Linked List, Strings, Arrays and Big O
+### Data Structures & Algorithms based coding on collabedit
 
-# 问题
-Basic programming questions, OOP concepts and past   experience
+### basic knowledge in C++. Like virtual function, inline function, malloc... then for Algorithms, big-O notation
 
-Applied on the portal , called after two weeks. Had a phone interview for an hour . Basic explanation of the resume and questions on the projects already done. Questioned about the various tools and toolsets in ArcMap. Followed by a second phone interview, by another member of the team , which lasted for an hour. Reject after two weeks.
-
-Why Esri? What do you know about esri
-
-describe a college course or past job experience that would would help you with this position and why?
-
-HR call (Background + Why ESRI + Why this position) -> Hiring Manager call (background + few technical Qs based on resume) -> Collaborative coding session. Still waiting on results. Hiring Manager was friendly and helpful
-Data Structures & Algorithms based coding on collabedit
-Review basics of Linked List, Strings, Arrays and Big O
-
-Next week received another email regarding next around interview: talk about interested topics you would like to work on in the internship.
-After one day received decision from interviewer and next week received HR email.
-
-### Software Intern
-Describe projects mentioned in resume.  
-Why you choose ESRI to intern?  
-Do you have any questions?   
-  - How is the ESRI campus life?
-  - What do intern do particularly?
-
-Which area do you have interest in during internship?  
-As for the areas you mentioned, how do you allocate your time?
-
-### SE phone interview intern
-First I introduce myself, and briefly talked about my projects( related to C++). But interviewer didn't ask questions about my projects...
-
-Then interviewer asked questions about basic knowledge in C++. Like virtual function, inline function, malloc...
-then for Algorithms, big-O notation
-
-ask some questions about intern
-
-### SE onsite
-How do you prioritize these tasks? (I was given a list of things with deadlines coming up and I had to explain how I'd attend them)  
-A question on bit shifting and bit manipulation  
-I was given a snippet and had to find 10 mistakes, the first 6-7 are relatively easy to spot but good luck finding the last couple of them -.-  
-I was given an incomplete code and had to fill out the blank parts - extremely easy, just had to write a for loop  
-What would I change about the existing tools/workflows? How would I change the Common API? (Common API is what I was working with all summer so I gave my personal thoughts on it)  
-
-### intern
-1. from where did you hear about the company?
-2. What would you describe about yourself?
-3 Why ESRI?
-4. Will you need Visa in future to work in the company?
-5. Describe about your previous experiences?
-6. Discuss about one of your projects?
-7. If you have to interview a candidate, what qualities would you see?
-8. Where do you see yourself in few years?
-
-# Code 类似问题
+### linear regression是啥？然后说了下xgboost和random forest，问random forest为啥是random的？
+首先每次迭代feature不全用，是random的；然后training set用bootstrap是random的。老大表示基本满意。
+### 问了java的基础题（interface，多态, serlization？sychronized block?）
+### Code 类似问题
 What's the meaning of "auto" in C++ 11
 What's virtual function？  
 Find the center of a linked list.
@@ -69,24 +31,89 @@ What is the difference between a reference and a pointer?
   - A reference always identifies a valid object in the memory.
   - References cannot be uninitialized. Because it is impossible to reinitialize a reference, they must be initialized as soon as they are created. In particular, local and global variables must be initialized where they are defined and references which are data members of class instances must be initialized in the class's constructor.
   - Once a reference is created, it cannot be later made to reference another object; we can say it cannot be reseated. This is often done with pointers.
+### A question on bit shifting and bit manipulation  
+
+
+# 问题 Company
+### Basic programming questions, OOP concepts and past experience
+
+### Why Esri? What do you know about esri
+
+### HR call (Background + Why ESRI + Why this position) -> Hiring Manager call (background + few technical Qs based on resume) -> Collaborative coding session. Still waiting on results. Hiring Manager was friendly and helpful
+
+
+
+### 
+### Software Intern
+Describe projects mentioned in resume.  
+
+### SE onsite
+I was given a snippet and had to find 10 mistakes, the first 6-7 are relatively easy to spot but good luck finding the last couple of them -.-  
+I was given an incomplete code and had to fill out the blank parts - extremely easy, just had to write a for loop  
+What would I change about the existing tools/workflows? How would I change the Common API? (Common API is what I was working with all summer so I gave my personal thoughts on it)  
+
+### intern
+1. from where did you hear about the company?
+My sister is an undergraduate student in GIS. She tells me. ArcGIS to collect data, and visualize data.
+
+2. What would you describe about yourself?
+Like new technologies, want to try and create new things. Do research in new technologies. But when want to do something, can dive into it and try to do best.
+
+3 Why ESRI?
+Biggest company in GIS. Data visulization is beautiful. Has a lot of data. how to use the data. Structured data is easy to use. But in future, people must do research and focus on map/graph data, which is hard to get information.
+
+
+4. Will you need Visa in future to work in the company?
+Yeah, intern will not need. But full time I need H1B
+
+5. Describe about your previous experiences?
+Write four years technology blog. Participate Algorithm Contest ACM/ICPC makes me quickly think of a proposal for a problem. do research in Bioinformatics. have a intern in network company, work experience helps me team work, git collaborat. deploy real system.
+
+6. Discuss about one of your projects?
+MusicFM, write a python crawler to get music information and use d3.js to visulize them. Try to use collaborative filter to recommend
+
+7. If you have to interview a candidate, what qualities would you see?
+problem solving, 
+
+8. Where do you see yourself in few years?
+manage/main contributor a big project, which has a lot of users. 
+
+9. How do you prioritize these tasks? As for the areas you mentioned, how do you allocate your time?
+List these tasks, most important and deadline will be done first.
+
+10. introduce myself, and briefly talked about my projects( related to C++).
+
+11. Do you have any questions? or about intern   
+  - How is the ESRI campus life?
+  - What do intern do particularly?
+  - How do you manage the data
+
+12. describe a college course or past job experience that would would help you with this position and why?
+work on a back-end server.
+
+13. talk about interested topics you would like to work on in the internship. Which area do you have interest in during internship? 
+0. data visulization / Tool for analyze data, build a easy to use api for analyze.
+1. design a platform for 2D/3D data tranform.
+2. database for map/data
+
 
 # 别人电面+面经
 #### 1.
 Esri在redlands，LA，算是GIS大牛，但是比FLAG还是差一些的，因为产品方向过于单一了。环境很好，单人单办公室（完全独立，采光极好）！据说上班是50%工作，50%自己研究新东西。
 
-team不说了，你们就当是software engineer吧，做开发的，说出来被公司人查到就不好了。-google 1point3acres
+team不说了，你们就当是software engineer吧，做开发的，说出来被公司人查到就不好了。
 
-（说一些番外话，我16年三月开始投工作，算是很晚了，很多大公司没坑了。去snapchat和uber都挂了，google给了onsite, 估计希望不大。然后有了Esri的offer。. 1point 3acres 璁哄潧
-当时去onsite，坐飞机上想，如果给了offer就回来到地里写面经。因为地里当时也基本没有Esri的onsite资料，很虚。现在虽然过了蛮久了，闲了下来，写点东西，算是来还愿吧。）. Waral 鍗氩链夋洿澶氭枃绔�,
+（说一些番外话，我16年三月开始投工作，算是很晚了，很多大公司没坑了。去snapchat和uber都挂了，google给了onsite, 估计希望不大。然后有了Esri的offer。. 
+当时去onsite，坐飞机上想，如果给了offer就回来到地里写面经。因为地里当时也基本没有Esri的onsite资料，很虚。现在虽然过了蛮久了，闲了下来，写点东西，算是来还愿吧。）. 
 
 
 我的基本资料：
-CS master, 以前稍微有点工作经验（1-2years）。 鏉ユ簮涓€浜�.涓夊垎鍦拌鍧�.
+CS master, 以前稍微有点工作经验（1-2years）。
 
 电面：
 我的电面比较特殊，老大直接打电话给我，聊了下背景，然后说了下组，问我感不感兴趣。
 我觉得他们做的东西的确很cool，是做那种开创性的产品，说感兴趣。老大说我们要求多学点东西，你喜欢学习除了你自己会的那些之外的技术么？我说会。就给了onsite。
-.1point3acres缃�
+.
 onsite:
 hr联系了onsite面试，一般四天：第一天飞过去，第二天面试，第三天随你自己玩，第四天飞回来。
 报销food up to $50/day。uber随你用，都报销。hotel在公司边上，可步行。
