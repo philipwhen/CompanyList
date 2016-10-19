@@ -60,8 +60,8 @@ My sister is an undergraduate student in GIS. She tells me. ArcGIS to collect da
 Like new technologies, want to try and create new things. Do research in new technologies. But when want to do something, can dive into it and try to do best.
 
 3 Why ESRI?
-Biggest company in GIS. Data visulization is beautiful. Has a lot of data. how to use the data. Structured data is easy to use. But in future, people must do research and focus on map/graph data, which is hard to get information.
-
+Biggest company in GIS. Data visulization is interesting. Has a lot of data. how to use the data. Structured data is easy to use. But in future, people must do research and focus on map/graph data, which is hard to get information. In the future more and more things will be interacted with data/ especially map data. Big data.
+crime map.
 
 4. Will you need Visa in future to work in the company?
 Yeah, intern will not need. But full time I need H1B
