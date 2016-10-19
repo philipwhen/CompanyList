@@ -1,3 +1,10 @@
+# Interview 问题
+Introduce yourself
+why are you interested in CS
+Why choose Cu Boulder
+Introduce a your famous project
+What's your question about esri
+
 # 要求
 Developing a tool for debugging and profiling ArcGIS locators
 Building 2D and 3D web APIs for web applications
