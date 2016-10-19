@@ -124,6 +124,8 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 - appirio
   [Multi positions](https://appirio.com/careers/join-us?p=jobs%2Fregion%3Fr%3DUS)
 
+- Nasdaq
+  [SDE intern](https://campuscareersus-nasdaq.icims.com/jobs/7953/2017-summer-intern---software-developer/job?mode=job)
 *Updated by Eva on 10/13/2016*
 - Pure Storage
   [Software Engineer (Intern)](https://boards.greenhouse.io/purestorage/jobs/254475#app)
