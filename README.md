@@ -167,7 +167,7 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 - Mulesoft
   [Software Engineering Intern](https://www.mulesoft.com/careers/apply/software-engineering-intern?gh_jid=117030)
 
-- Capital One 
+- Capital One
   这个奇葩公司每个投简历的入口链接名字是“职位名称 - 学校名称”……所以我投的那个你们不能从这个入口进，就不贴上来了。有可能是它去过的学校或者说在学校job board放了招聘的才设置网申入口（因为在学校job board投完还要求官网再投一遍）……这种可以看看别的途径投。不过没事，这种信用卡公司也不是我们热衷的公司。
 
 *Following is added by kisday on 10/14/2016*
@@ -186,6 +186,8 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 - appirio
   [Multi positions](https://appirio.com/careers/join-us?p=jobs%2Fregion%3Fr%3DUS)
 
+- Nasdaq
+  [SDE intern](https://campuscareersus-nasdaq.icims.com/jobs/7953/2017-summer-intern---software-developer/job?mode=job)
 *Updated by Eva on 10/13/2016*
 - Pure Storage
   [Software Engineer (Intern)](https://boards.greenhouse.io/purestorage/jobs/254475#app)
@@ -290,8 +292,76 @@ https://www.yelp.com/careers/home
 [Software Application Engineering Intern ](https://marvell.taleo.net/careersection/careersection/ex/jobdetail.ftl)
   - Lich Submitted on 10/15/2016
 
+---
+The Following updated by Lich on 10/17/2016
+
+### DataVisor
+[glassdoor](https://www.glassdoor.com/Job/california-intern-software-engineer-jobs-SRCH_IL.0,10_IS2280_KO11,35.htm)
+  - Lich Submitted on 10/17/2016
+
+### Yelp
+[Software Engineer - Intern - Summer](https://jobs.lever.co/yelp/3f4cb3c8-4152-48b6-a76a-8226c2907400?lever-source=Glassdoor-Campaign)
+  - Lich Submitted on 10/17/2016
+
+### Proofpoint
+[Software Engineering Intern](https://chj.tbe.taleo.net/chj04/ats/careers/requisition.jsp?org=PROOFPOINT&cws=1&rid=22258&source=Glassdoor)
+  - Lich Submitted on 10/17/2016
+
+### Telogis
+[Software Development Engineer Intern](https://chj.tbe.taleo.net/chj06/ats/careers/requisition.jsp?org=TELOGIS&cws=1&rid=1744&source=Glassdoor)
+  - Lich Submitted on 10/17/2016
+
+### LendUp
+Software Engineering [Intern](https://boards.greenhouse.io/lendup/jobs/481574?gh_src=i06sme1#app)
+  - Lich Submitted on 10/17/2016
+### Palo Alto Networks Careers
+[Intern: Dataplane Software Team](https://jobs.jobvite.com/paloaltonetworks/job/oQ2U3fwz)
+  - Lich Submitted on 10/17/2016
+### Tubular Labs
+[Software Engineer - Intern](https://jobs.lever.co/tubularlabs/169bdf2b-54a0-46f8-8a24-c22d5116930e?lever-source=glassdoor)
+  - Lich Submitted on 10/17/2016
+### Real-Time Innovations
+[Software Engineering Intern](https://boards.greenhouse.io/rti/jobs/143488?gh_src=5gkbvl#.WAWgAOArKhc)
+  - 必须要coverletter
+
+### Juniper Networks
+[Intern: Software Engineer - 934606](https://careers.juniper.net/careers/careers/jobdescription.html?jid=934606)
+
+### Garmin
+[Software Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=16000TS&lang=en&src=JB-11600)
+
+### FEI
+[Software Engineer - Intern](https://careers-fei.icims.com/jobs/6813/software-engineer---intern/job?mode=job&iisn=Glassdoor&iis=Glassdoor&mobile=false&width=1491&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360)
+
+### GoDaddy
+[Intern - Software Engineer](http://jobs.jobvite.com/careers/godaddy/job/ok9U3fwa?__jvst=Job%20Board/Internet%20Advertising&__jvsd=glassdoor)
+
+### FiveStars
+[Software Engineer - Intern at FiveStars](http://jobs.menlovc.com/jobdetail.php?jobid=572467)
+### Copart, Inc
+[Software Engineering Intern](https://copart-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=4329&company_id=17045&version=1&jobBoardId=3337)
+
+### Lyft
+[Intern: Software Engineer](https://jobs.lever.co/lyft/c4da7608-8240-4429-ba51-06aa99a78c31?lever-source=glassdoor)
+
+### The Climate Corp
+[The Climate Corp](http://jobs.jobvite.com/the-climate-corporation/job/olpL3fwi)
+###Laserfiche
+[Software Engineer Intern](http://jobs.jobvite.com/careers/laserfiche/job/ot1H3fwY?__jvst=Job%20Board&__jvsd=glassdoor)
+### Meraki
+[Software Engineer, Intern](https://meraki.cisco.com/jobs#46218)
+### Course Hero
+[Software Engineer Intern](https://www.coursehero.com/jobs/engineering/267960/)
+
+### Aspera
+[Software Engineering Intern](http://jobs.jobvite.com/careers/aspera/job/otqS3fwy?__jvst=Job%20Board&__jvsd=glassdoor)
+
+### Hitachi
+[Software Engineering Intern](https://hitachi.taleo.net/careersection/2/jobdetail.ftl?job=34598)
+
 ## 游戏公司
 ### riot games
+[Software Engineer Intern](http://www.riotgames.com/careers/243022#grnhse_app)
 [LinkedIn](https://www.linkedin.com/jobs/view/197123741?trkInfo=searchKeywordString%3AData%2BScience%2BIntern%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A5%2CMSRPsearchId%3A319305000_1475289236282&refId=319305000_1475289236282&recommendedFlavor=SCHOOL_RECRUIT&trk=jobs_jserp_job_listing_text)
 
 ### 暴雪
