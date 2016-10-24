@@ -101,6 +101,68 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 
 ## Software
 
+*17 items dded by Eva on 10/23/2016*
+- Proofpoint
+  [Software Engineering Intern](http://chj.tbe.taleo.net/chj04/ats/careers/requisition.jsp?org=PROOFPOINT&cws=42&rid=22258)
+
+- WealthFront
+  [Intern - Software Engineer](https://boards.greenhouse.io/wealthfront/jobs/453922?gh_jid=453922#.WA0ileErKt8)
+
+- Enthought
+  [Software Developer Summer Internships (Full-Time)](https://www.enthought.com/company/careers/Software-Developer-Summer-Internships/) （没听过这个公司…）这个网页上没有投简历的设置，只能发邮件申请，还有附cover letter和code sample，我还没申
+
+- TransMarket
+  [Software Engineer Intern](http://www.transmarketgroup.com/jobs/?gh_jid=265239)
+  [Algorithmic Trader Intern](http://www.transmarketgroup.com/jobs/?gh_jid=265244)
+
+- Hyperloop One 
+  [ENGINEERING INTERNSHIP/CO-OP SUMMER 2017](https://hyperloop-one.com/careers/455251/engineering-internshipco-op-summer-2017)
+
+- tubular
+  [Software Engineer - Intern](https://jobs.lever.co/tubularlabs/169bdf2b-54a0-46f8-8a24-c22d5116930e?lever-source=Handshake)
+
+- Informatica
+  [Software Engineering/Software Test Engineering Intern](https://careers.informatica.com/job/INFOA00572284/Software-Engineering-Software-Test-Engineering-Intern)
+
+- Square
+  [Software Engineer Intern](https://www.smartrecruiters.com/Square/94251555)
+
+- Bloomberg
+  [2017 Software Engineer Intern](https://careers.bloomberg.com/job/detail/53395?el=Internships&qf=software)
+
+- Dropbox
+  [Software Engineer Intern (Summer 2017)](https://www.dropbox.com/jobs/listing/190707?gh_jid=190707&gh_src=d51vw6)
+
+- Varian
+  [Software Business Analyst Intern](https://sjobs.brassring.com/TGWEbHost/jobdetails.aspx?partnerid=25044&siteid=5224&AReq=10055BR)
+
+- National Instruments
+  [Intern/Co-op - Software Engineer (MS) for 2017](https://careers.peopleclick.com/careerscp/client_nationalinstruments/external/jobDetails.do?functionName=getJobDetail&jobPostId=6924&localeCode=en-us)
+
+- DE SHaw
+  [Software Developer Intern; IT/Enterprise: Technologist Intern](https://www.deshaw.com/recruit/UnivListing.html)
+
+- Health Care Product Development - The Advisory Board Company
+  [ Software Engineering Intern (starting summer 2017)](http://advisorycareers.force.com/openings/apex/ts2__jobdetails?jobId=a0KF000000HVfH3MAL)
+
+- Laserfiche
+  [Software Engineer Intern](http://jobs.jobvite.com/careers/laserfiche/job/ot1H3fwY/apply?__jvst=Job%20Board&__jvsd=Handshake)
+
+- Mathwork
+  [Software Engineering Intern](http://www.mathworks.com/company/jobs/opportunities/10071-software-engineering-intern?job_type_id[]=1755&interest_area[]=1765&interest_area[]=1369&interest_area[]=1367&interest_area[]=1366&interest_area[]=1764&interest_area[]=1371&interest_area[]=1763&interest_area[]=1355&interest_area[]=1354&interest_area[]=1766&interest_area[]=1353&)
+
+- SpaceX   
+  [Search Open Positions](http://www.spacex.com/careers/list?type%5B%5D=37)
+
+  那些SAT ACT就选did not take就可以了   
+  [SOFTWARE ENGINEERING INTERNSHIP/CO-OP SUMMER 2017 (TEXAS)](http://www.spacex.com/careers/position/204825)
+
+  [INTERNSHIP/CO-OP SUMMER 2017 (SEATTLE)](http://www.spacex.com/careers/position/9233)
+
+  [INTERNSHIP/CO-OP SUMMER 2017 (LOS ANGELES)](http://www.spacex.com/careers/position/9231)
+
+
+
 *Added by Eva on 10/15/2016*
 - Mulesoft
   [Software Engineering Intern](https://www.mulesoft.com/careers/apply/software-engineering-intern?gh_jid=117030)
