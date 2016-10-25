@@ -32,6 +32,7 @@ https://www.quora.com/careers/data_scientist_intern
 ### Hulu
   - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=200317&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
   - 官网 [Hulu Jobs](https://www.hulu.com/jobs)
+  - Lich Submitted on 10/25/2016
 
 ### Vmware
   - [一亩三分地](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=201996&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192)
@@ -115,7 +116,7 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
   [Software Engineer Intern](http://www.transmarketgroup.com/jobs/?gh_jid=265239)
   [Algorithmic Trader Intern](http://www.transmarketgroup.com/jobs/?gh_jid=265244)
 
-- Hyperloop One 
+- Hyperloop One
   [ENGINEERING INTERNSHIP/CO-OP SUMMER 2017](https://hyperloop-one.com/careers/455251/engineering-internshipco-op-summer-2017)
 
 - tubular
@@ -312,14 +313,17 @@ The Following updated by Lich on 10/17/2016
   - Lich Submitted on 10/17/2016
 
 ### LendUp
-Software Engineering [Intern](https://boards.greenhouse.io/lendup/jobs/481574?gh_src=i06sme1#app)
+[Software Engineering Intern](https://boards.greenhouse.io/lendup/jobs/481574?gh_src=i06sme1#app)
   - Lich Submitted on 10/17/2016
+
 ### Palo Alto Networks Careers
 [Intern: Dataplane Software Team](https://jobs.jobvite.com/paloaltonetworks/job/oQ2U3fwz)
   - Lich Submitted on 10/17/2016
+
 ### Tubular Labs
 [Software Engineer - Intern](https://jobs.lever.co/tubularlabs/169bdf2b-54a0-46f8-8a24-c22d5116930e?lever-source=glassdoor)
   - Lich Submitted on 10/17/2016
+
 ### Real-Time Innovations
 [Software Engineering Intern](https://boards.greenhouse.io/rti/jobs/143488?gh_src=5gkbvl#.WAWgAOArKhc)
   - 必须要coverletter
@@ -335,21 +339,29 @@ Software Engineering [Intern](https://boards.greenhouse.io/lendup/jobs/481574?gh
 
 ### GoDaddy
 [Intern - Software Engineer](http://jobs.jobvite.com/careers/godaddy/job/ok9U3fwa?__jvst=Job%20Board/Internet%20Advertising&__jvsd=glassdoor)
+  - Lich Submitted on 10/21/2016
 
 ### FiveStars
 [Software Engineer - Intern at FiveStars](http://jobs.menlovc.com/jobdetail.php?jobid=572467)
+  - Lich Submitted on 10/25/2016
+
 ### Copart, Inc
 [Software Engineering Intern](https://copart-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=4329&company_id=17045&version=1&jobBoardId=3337)
 
 ### Lyft
 [Intern: Software Engineer](https://jobs.lever.co/lyft/c4da7608-8240-4429-ba51-06aa99a78c31?lever-source=glassdoor)
+  - Lich Submitted on 10/25/2016
 
 ### The Climate Corp
 [The Climate Corp](http://jobs.jobvite.com/the-climate-corporation/job/olpL3fwi)
-###Laserfiche
+
+### Laserfiche
 [Software Engineer Intern](http://jobs.jobvite.com/careers/laserfiche/job/ot1H3fwY?__jvst=Job%20Board&__jvsd=glassdoor)
+
 ### Meraki
 [Software Engineer, Intern](https://meraki.cisco.com/jobs#46218)
+  - Lich Submitted on 10/25/2016
+
 ### Course Hero
 [Software Engineer Intern](https://www.coursehero.com/jobs/engineering/267960/)
 
@@ -358,6 +370,11 @@ Software Engineering [Intern](https://boards.greenhouse.io/lendup/jobs/481574?gh
 
 ### Hitachi
 [Software Engineering Intern](https://hitachi.taleo.net/careersection/2/jobdetail.ftl?job=34598)
+  - Lich Submitted on 10/25/2016
+
+### Slack
+[Summer Software Engineering Intern (2017)](https://slack.com/jobs/263365/summer-software-engineering-intern-2017)
+  - Lich Submitted on 10/25/2016
 
 ## 游戏公司
 ### riot games
