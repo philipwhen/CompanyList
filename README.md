@@ -151,17 +151,10 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 - Mathwork
   [Software Engineering Intern](http://www.mathworks.com/company/jobs/opportunities/10071-software-engineering-intern?job_type_id[]=1755&interest_area[]=1765&interest_area[]=1369&interest_area[]=1367&interest_area[]=1366&interest_area[]=1764&interest_area[]=1371&interest_area[]=1763&interest_area[]=1355&interest_area[]=1354&interest_area[]=1766&interest_area[]=1353&)
 
-- SpaceX   
-  [Search Open Positions](http://www.spacex.com/careers/list?type%5B%5D=37)
+- ~~SpaceX~~   不要投这个；回复邮件说根据ITAR Requirements只能招美国公民或者永久居民……因为好像是跟火箭啥的有关 = =
+  ~~[Search Open Positions](http://www.spacex.com/careers/list?type%5B%5D=37)~~
 
-  那些SAT ACT就选did not take就可以了   
-  [SOFTWARE ENGINEERING INTERNSHIP/CO-OP SUMMER 2017 (TEXAS)](http://www.spacex.com/careers/position/204825)
-
-  [INTERNSHIP/CO-OP SUMMER 2017 (SEATTLE)](http://www.spacex.com/careers/position/9233)
-
-  [INTERNSHIP/CO-OP SUMMER 2017 (LOS ANGELES)](http://www.spacex.com/careers/position/9231)
-
-
+===== 
 
 *Added by Eva on 10/15/2016*
 - Mulesoft
@@ -177,7 +170,6 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 
 =======
 
-## Software
 *Following is added by kisday on 10/14/2016*
 
 - Leetcode
@@ -226,7 +218,7 @@ Describe in 2-3 sentences something you have built to solve a non-trivial proble
 - Knewton, Inc.
   [Software Engineering Internship](https://jobs.lever.co/knewton/68af562f-61d2-4e66-bcda-7f6ffc85b445)
 
-
+=====
 
 *Eva has already applied in campus job board, attached company's official site:*
 
