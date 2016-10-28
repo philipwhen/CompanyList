@@ -460,6 +460,10 @@ The Following updated by Lich on 10/17/2016
 [Summer Software Engineering Intern (2017)](https://slack.com/jobs/263365/summer-software-engineering-intern-2017)
   - Lich Submitted on 10/25/2016
 
+
+### Twitter
+  - Lich Got OA on 10/25/2016
+
 ## 游戏公司
 ### riot games
 [Software Engineer Intern](http://www.riotgames.com/careers/243022#grnhse_app)
